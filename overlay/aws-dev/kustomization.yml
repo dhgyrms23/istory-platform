@@ -16,6 +16,9 @@ patches:
 images:
 - name: dangtong76/istory
   newTag: latest
+- name: dhgyrms23/istory
+  newName: dagntong76/istory
+  newTag: "9"
 - name: istory
   newName: dhgyrms23/istory
   newTag: "8"
